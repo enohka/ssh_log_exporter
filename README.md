@@ -2,7 +2,7 @@
 
 Honeypot ssh log exporter
 
-Designed to work together [with my OpenSSH Honeypot](https https://github.com/enohka/openssh-portable)
+Designed to work together [with my OpenSSH Honeypot](https://github.com/enohka/openssh-portable)
 
 This program can run as a linux daemon, scrape all logs from my SSH Honeypot and send them to an [InfluxDB](https://www.influxdata.com/products/influxdb/) instance.
 
