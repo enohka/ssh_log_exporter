@@ -1,0 +1,13 @@
+[Unit]
+Description=ISC HP ssh log exporter
+After=network.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=root
+ExecStart=/usr/sbin/hp_ssh_exporter --config /etc/hp_ssh_exporter/config.json
+
+[Install]
+WantedBy=multi-user.target

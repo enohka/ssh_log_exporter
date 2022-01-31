@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "hp_ssh_exporter": {
+      "commandName": "Project",
+      "commandLineArgs": "--config E:\\workspace\\source\\hp_ssh_exporter\\config.json"
+    }
+  }
+}

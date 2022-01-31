@@ -1,0 +1,12 @@
+{
+  "sshlogscraper": {
+    "scrapeintervall": 20,
+    "LogLocation": "<path to folder containing logs>"
+  },
+  "influxdb": {
+    "host": "",
+    "token": "",
+    "bucket": "",
+    "org": ""
+  }
+}

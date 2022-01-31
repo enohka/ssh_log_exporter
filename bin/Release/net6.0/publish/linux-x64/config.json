@@ -1,0 +1,12 @@
+{
+  "sshlogscraper": {
+    "scrapeintervall": 120,
+    "LogLocation": "E:\\workspace\\source\\hp_ssh_exporter\\examplelogs\\"
+  },
+  "influxdb": {
+    "host": "https://influxdb.int.isconsulting.io",
+    "token": "abw5KxTIzX0OZccSg2v61X57Oi11_2HJyvfZM4cO9hUyASL2cteLDvmlXndEGVZNNDzKKz-3Mq4iE5kN3HuD9w==",
+    "bucket": "honeypot",
+    "org": "ISC"
+  }
+}

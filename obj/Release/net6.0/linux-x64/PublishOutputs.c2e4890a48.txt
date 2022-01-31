@@ -1,0 +1,3 @@
+E:\workspace\source\hp_ssh_exporter\bin\Release\net6.0\publish\linux-x64\hp_ssh_exporter.pdb
+E:\workspace\source\hp_ssh_exporter\bin\Release\net6.0\publish\linux-x64\sshlogscraper.service
+E:\workspace\source\hp_ssh_exporter\bin\Release\net6.0\publish\linux-x64\hp_ssh_exporter
